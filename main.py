@@ -1,4 +1,5 @@
 import streamlit as st
+# thiết đặt tiêu đề, icon, layout cho trang
 st.set_page_config(page_title = "Trắc nghiệm tính cách", page_icon = ":question:",layout = "wide")
 
 st.title("Hãy chọn một con vật bạn yêu thích.")
